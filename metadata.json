@@ -1,0 +1,6 @@
+{
+  "name": "lightning-homework",
+  "identifier": "com.fetchtv.app.lightning-homework",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}

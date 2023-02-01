@@ -1,0 +1,7 @@
+{
+  "name": "com.fetchtv.app.lightning-homework",
+  "description": "lightning-homework",
+  "dependencies": {
+    "@lightningjs/sdk": "^5.2.0"
+  }
+}
